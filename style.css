@@ -1,0 +1,139 @@
+body {
+    background-image: url(https://www.citylifemadrid.com/wp-content/uploads/Madrid-City-at-Night.jpg);
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Lato", sans-serif;
+    
+}
+.countain {
+    width: 1250px;
+    height: 18000px;
+    margin-top: 35px;
+    background: white;
+    border-radius: 5px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin-left: 100px;
+    padding: 20px 0;
+}
+nav .logo  {
+    color: black;
+    text-decoration: none;
+    font-size: 35px;
+    letter-spacing: 3px;
+    font-weight: 1000;
+    
+   
+}
+nav ul li {
+    display: inline-block;
+    margin: 0px 15px;
+    font-family: "Roboto", sans-serif;
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0;
+}
+nav ul li a:hover {
+    color: red;
+}
+.life {
+    color: red;
+    font-size: 40px;
+}
+.line {
+    background: #3c3c3c;
+    height: 1px;
+}
+
+h1 {
+    font-size: 45px;
+    width: 800px;
+    margin: 40px 0px 0px 35px;
+    font-weight: 900;
+    color: #3c3c3c;
+}
+.exp ul li {
+
+    display: inline-block;
+    margin: 15px 0px 0px 20px;
+    color: rgb(130, 127, 127);
+    
+    
+}
+.exp2 {
+    color: rgb(130, 127, 127);
+    text-decoration: none;
+}
+.exp2:hover{
+    color: orange;
+}
+.edit2 {
+    margin: 15px 0px 0px 37px;
+}
+span {
+    color: red;
+}
+span:hover {
+    color: orange;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover {
+    color: orange;
+
+}
+.img1 {
+    width: 900px;
+    margin: 30px 0px 0px 37px;
+
+}
+.center {
+    width: 900px;
+    text-align: center;
+    margin: 20px 0px 0px 37px;
+    font-weight: 400;
+}
+.Tagine {
+    font-size: 35px;
+    width: 500px;
+    margin: 50px 0px 0px 380px;
+    font-weight: 800;
+    color: #3c3c3c
+}
+.img2 {
+    width: 500px;
+    margin-left: 210px;
+    margin-top: 40px;
+    
+}
+
+.img3 {
+    width: 800px;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.img11 {
+    width: 900px;
+    margin: 60px 0px 0px 37px; 
+}
+.kefta {
+    font-size: 35px;
+    width: 500px;
+    margin: 50px 0px 0px 270px;
+    font-weight: 800;
+    color: #3c3c3c
+}
